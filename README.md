@@ -1,1 +1,1 @@
-# reddit
+# A collection of sub-reddits
